@@ -1,0 +1,16 @@
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek1\TestWeek1L\TestWeek1L\bin\Debug\net5.0\TestWeek1L.exe
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek1\TestWeek1L\TestWeek1L\bin\Debug\net5.0\TestWeek1L.deps.json
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek1\TestWeek1L\TestWeek1L\bin\Debug\net5.0\TestWeek1L.runtimeconfig.json
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek1\TestWeek1L\TestWeek1L\bin\Debug\net5.0\TestWeek1L.runtimeconfig.dev.json
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek1\TestWeek1L\TestWeek1L\bin\Debug\net5.0\TestWeek1L.dll
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek1\TestWeek1L\TestWeek1L\bin\Debug\net5.0\ref\TestWeek1L.dll
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek1\TestWeek1L\TestWeek1L\bin\Debug\net5.0\TestWeek1L.pdb
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek1\TestWeek1L\TestWeek1L\obj\Debug\net5.0\TestWeek1L.csproj.AssemblyReference.cache
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek1\TestWeek1L\TestWeek1L\obj\Debug\net5.0\TestWeek1L.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek1\TestWeek1L\TestWeek1L\obj\Debug\net5.0\TestWeek1L.AssemblyInfoInputs.cache
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek1\TestWeek1L\TestWeek1L\obj\Debug\net5.0\TestWeek1L.AssemblyInfo.cs
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek1\TestWeek1L\TestWeek1L\obj\Debug\net5.0\TestWeek1L.csproj.CoreCompileInputs.cache
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek1\TestWeek1L\TestWeek1L\obj\Debug\net5.0\TestWeek1L.dll
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek1\TestWeek1L\TestWeek1L\obj\Debug\net5.0\ref\TestWeek1L.dll
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek1\TestWeek1L\TestWeek1L\obj\Debug\net5.0\TestWeek1L.pdb
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek1\TestWeek1L\TestWeek1L\obj\Debug\net5.0\TestWeek1L.genruntimeconfig.cache
